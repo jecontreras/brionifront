@@ -1,5 +1,9 @@
 {
   "projects": {
+<<<<<<< HEAD
     "default": "brionyapp"
+=======
+    "default": "shoppalmastore"
+>>>>>>> 660a0cbd994cb8b96d051b93116968df47c53f2c
   }
 }

@@ -12,5 +12,11 @@
         "destination": "/index.html"
       }
     ]
+<<<<<<< HEAD
+=======
+  },
+  "remoteconfig": {
+    "template": "remoteconfig.template.json"
+>>>>>>> 660a0cbd994cb8b96d051b93116968df47c53f2c
   }
 }
