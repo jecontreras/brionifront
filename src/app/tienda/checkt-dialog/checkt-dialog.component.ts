@@ -147,7 +147,7 @@ export class ChecktDialogComponent implements OnInit {
 
   mensajeWhat(){
     let mensaje: string = ``;
-    mensaje = `https://wa.me/573223519032?text=${encodeURIComponent(`
+    mensaje = `https://wa.me/573103139730?text=${encodeURIComponent(`
       Hola Servicio al cliente, como esta, saludo cordial,
       para confirmar adquiere este producto
       Nombre de cliente: ${ this.data.nombre }
